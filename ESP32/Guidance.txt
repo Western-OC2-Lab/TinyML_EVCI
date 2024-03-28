@@ -1,0 +1,6 @@
+The server: code is located is src. Model is in data folder.
+Build the model, click on alien icon and press upload filesystem image. Press upload (->) from the bottom, then start monitoring.
+
+The client: go to WSL, (sudo apt install clang) then:
+clang++ Client.cpp -o Client
+./Client

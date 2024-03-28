@@ -1,0 +1,10 @@
+Metrics,Values
+Accuracy,0.9999293136353997
+Precision,0.9999293276771886
+Recall,0.9999293136353997
+F1_Score,0.9999288640288226
+training_time_ms,9992.62049999379
+training_memory_KB,48.06366539001465
+Average_prediction_time_ms,17.21235042408665
+Average_prediction_memory_consumption_KB,18.76827829276967
+size_KB,2411.0791015625
